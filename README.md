@@ -1,5 +1,5 @@
 # IoT-Log-Parser-Software
-This software is developed by me as a part of assessment for Smart City Living Lab.
+This software is developed by me as a part of assessment for the recruitment process of Smart City Living Lab.
 
 ## Process to run the Software
 To run the software,
